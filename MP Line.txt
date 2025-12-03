@@ -1,0 +1,18 @@
+Module Pack LINE 40 GWh (3x13.3 GWh)
+
+The scope of this document is to capture the line functionality for the 3 x 40 PPM Module Pack line for
+meeting the capacity of 40 GWh. It includes the overall layout concept, production process flow, details
+of automation, material flow, manpower, utilities & fire safety requirements of three separate lines
+each having capacity of 13.3 GWh.
+
+Scope and Layout (Pages 1–5): Defines the project’s purpose, covering functionality, automation, material flow, manpower, utilities, and safety.
+The facility layout includes three 142m x 43m Module Pack Lines, with a focus on integrated operations.
+
+Product and Process (Pages 6–16): Details product variants, automated line concepts (AGV-based material movement), and process steps 
+(Module Line: OP10–OP170; Pack Line: ST10–ST160). The line supports flexible production of 2P7S and 1P13S modules, with 18 operators per line (54 total).
+Cycle times are optimized for 40 PPM, though some processes (e.g., leak testing) exceed design targets.
+
+Material and Logistics (Pages 8, 14): Lists module-level BOM and raw material feeding rates, with high AGV traffic (e.g., 84/shift for cells). Fixture replacements are needed for dimensional changes.
+Utilities and Environment (Pages 40–49): Specifies water (11,000 liters/day), compressed air (3000 CFM), nitrogen (80 Nm³/h), and environmental conditions (5–28°C, ≤80% RH for production; tighter for IT areas). Manual air supply is noted for some stations.
+Safety and Waste (Pages 50–59): Addresses risks (thermal runaway, fire) with standards (UL 1973, IEC 62619, NFPA 1) and compliance with National Building Code 2016. Waste generation (1% rejection rate) requires 418 m² for 30 days, with disposal via Gujarat State Pollution Control Board-approved vendors.
+Automation and Flexibility (Pages 6, 12–13): Emphasizes automation (most processes are auto), with manual tasks like busbar installation and inspections. Jamnagar’s line is more flexible than Hithium USA’s, supporting both module variants.
